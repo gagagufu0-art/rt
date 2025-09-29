@@ -1,3 +1,0 @@
-﻿  kakulator.cpp
-I:\ка\ффф\VS\kakulator\kakulator\kakulator.cpp(90,29): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
-  kakulator.vcxproj -> I:\ка\ффф\VS\kakulator\x64\Debug\kakulator.exe
